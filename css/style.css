@@ -124,10 +124,10 @@ footer ,.Home-page {
 /* prosthetic */
 
 .rotat-pro {
-  left: -2%;
-  top: -13%;
-  width: 50% !important;
-  z-index: 0;
+left: 0%;
+    top: -12%;
+    width: 41% !important;
+    z-index: 0;
 }
 .video-center-btn {
   width: 72px;
